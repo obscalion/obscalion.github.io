@@ -302,7 +302,7 @@ aside article {
 }
 
 .profile-image::before {
-    background-image: url('img/profile2.jpg');
+    background-image: url('img/profile1.jpg');
     background-size: 130px;
     width: 130px;
     height: 130px;
