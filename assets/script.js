@@ -16,14 +16,14 @@ const data = {
             "ref": "https://www.goodreads.com/book/show/1607269.Madilog"
         },
         {
-            "title": "Zero to One: Notes on Startups",
-            "author": "Peter Thiel",
-            "ref": "https://www.goodreads.com/book/show/18050143-zero-to-one"
+            "title": "Animal Farm",
+            "author": "George Orwell",
+            "ref": "https://www.goodreads.com/book/show/170448.Animal_Farm"
         },
         {
-            "title": "Good to Great: Why Some Companies Make the Leap...and Others Don't",
-            "author": "Jim C. Collins",
-            "ref": "https://www.goodreads.com/book/show/76865.Good_to_Great"
+            "title": "Don Quixote",
+            "author": "Miguel de Cervantes",
+            "ref": "https://www.goodreads.com/book/show/3836.Don_Quixote"
         }
     ]
 }
