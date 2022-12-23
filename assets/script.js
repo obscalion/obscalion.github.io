@@ -6,14 +6,14 @@ const data = {
             "ref": "https://www.goodreads.com/book/show/42861019-filosofi-teras"
         },
         {
-            "title": "A History of Western Philosophy",
-            "author": "Bertrand Russell",
-            "ref": "https://www.goodreads.com/book/show/243685.A_History_of_Western_Philosophy"
+            "title": "The Iliad",
+            "author": "Homer",
+            "ref": "https://www.goodreads.com/book/show/1371.The_Iliad"
         },
         {
-            "title": "Madilog: Materialisme, Dialektika, Logika",
-            "author": "Tan Malaka",
-            "ref": "https://www.goodreads.com/book/show/1607269.Madilog"
+            "title": "The Odyssey",
+            "author": "Homer",
+            "ref": "https://www.goodreads.com/book/show/1381.The_Odyssey"
         },
         {
             "title": "Animal Farm",
